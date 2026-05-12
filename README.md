@@ -24,4 +24,4 @@ This project analyzes customer shopping trends and purchasing behavior using dat
 - Predict trends using machine learning
 
 ## Author
-The Max
+Mohamed Ahmed
